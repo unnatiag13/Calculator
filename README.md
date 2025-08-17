@@ -13,6 +13,6 @@ It performs basic arithmetic operations with a modern and responsive UI.
 - Styled with hover effects, shadows, and rounded buttons
 
 ## 📸 Preview
-![Calculator Screenshot](./assets/screenshot.png)
+![Calculator Screenshot](./assets/Screenshot.png)
 
 
